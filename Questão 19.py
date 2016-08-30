@@ -1,3 +1,6 @@
+print("Questão 19")
+print("")
+
 N = int(input("Quantos números você quer que sejam comparados? "))
 print("")
 aux = 1
